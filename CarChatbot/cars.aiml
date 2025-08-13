@@ -1,0 +1,50 @@
+<aiml version="1.0.1">
+    <category>
+        <pattern>WHAT IS THE FASTEST CAR</pattern>
+        <template>The fastest car in the world is the Bugatti Chiron Super Sport 300+ with a speed of 304 mph.</template>
+    </category>
+
+    <category>
+        <pattern>WHAT IS A SPORTS CAR</pattern>
+        <template>A sports car is a high-performance automobile designed for speed, handling, and aesthetics.</template>
+    </category>
+
+    <category>
+        <pattern>WHAT ARE THE TYPES OF CARS</pattern>
+        <template>There are several types of cars: Sedan, SUV, Coupe, Convertible, Hatchback, and more.</template>
+    </category>
+
+    <category>
+        <pattern>HOW DOES A HYBRID CAR WORK</pattern>
+        <template>Hybrid cars use both a gasoline engine and an electric motor to increase fuel efficiency.</template>
+    </category>
+     <category>
+        <pattern>WHAT IS HORSEPOWER</pattern>
+        <template>Horsepower is a unit of measurement for engine power. More horsepower generally means a faster car.</template>
+    </category>
+
+    <category>
+        <pattern>WHICH CAR HAS THE BEST FUEL ECONOMY</pattern>
+        <template>Cars like the Toyota Prius and Tesla Model 3 are known for their excellent fuel economy.</template>
+    </category>
+
+    <category>
+        <pattern>WHAT IS THE DIFFERENCE BETWEEN AWD AND 4WD</pattern>
+        <template>AWD powers all four wheels continuously, while 4WD is mainly for off-road driving and can be manually engaged.</template>
+    </category>
+
+    <category>
+        <pattern>WHAT IS TORQUE IN CARS</pattern>
+        <template>Torque is a measure of the rotational force of an engine. More torque means better acceleration.</template>
+    </category>
+
+    <category>
+        <pattern>WHAT IS A SUPERCHARGER</pattern>
+        <template>A supercharger is a device that increases engine power by forcing extra air into the combustion chamber.</template>
+    </category>
+
+<category>
+        <pattern>WHAT IS A TURBOCHARGER</pattern>
+        <template>A turbocharger increases engine efficiency and power output by forcing compressed air into the engine.</template>
+    </category>
+</aiml>
